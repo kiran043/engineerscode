@@ -1,0 +1,51 @@
+.bg {
+  padding: 7%;
+}
+
+hr.footerline {
+  border: 1px solid white;
+  width: 100%;
+}
+
+.iconmargin {
+  margin-left: 40%;
+}
+
+.iconstyle {
+  font-size: 40px;
+}
+
+/* Second footer */
+
+.footerstyle h6 {
+  text-align: left;
+  font-size: 25px;
+  color: #ffff;
+  margin-left: 20%;
+}
+.footerstyle p {
+  text-align: left;
+  font-size: 18px;
+  color: #ffff;
+  margin-left: 20%;
+}
+.iconstyle1 {
+  font-size: 40px;
+  /* margin-left: 5%; */
+}
+
+@media only screen and (max-width: 500px) {
+  .tags {
+    text-align: center;
+  }
+  .iconmargin {
+    margin-left: 8%;
+  }
+  .icons {
+    margin-right: 12%;
+  }
+  .bg {
+    background-color: black;
+    padding: 7%;
+  }
+}

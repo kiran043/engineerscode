@@ -1,0 +1,12 @@
+.fab-container1 {
+  position: fixed;
+  bottom: 25px;
+  right: 30px;
+  z-index: 999;
+  cursor: pointer;
+}
+
+.img-float {
+  width: 50px;
+  height: 50px;
+}
